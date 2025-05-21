@@ -1,7 +1,7 @@
 # Predictor de Precios de Vuelos 🛫💰
 
 **Trabajo Fin de Grado – Business Analytics, UFV (2024-25)**  
-Lucía Ortega – luciaortega1
+Lucía Ortega – luciaortegat1
 
 
 
