@@ -8,7 +8,7 @@ Lucía Ortega – luciaortegat1
 ## Descripción
 
 Este repositorio contiene el código completo de mi Trabajo Fin de Grado, cuyo objetivo es **modelar y predecir el precio de billetes de avión** a partir de variables como aerolínea, origen, destino, antelación, duración, número de escalas y clase (business/economy).  
-Se han explorado desde modelos simples (Regresión Lineal Múltiple) hasta ensamblados complejos (Random Forest, XGBoost) y Redes Neuronales, para comparar su rendimiento y seleccionar el más adecuado. Finalmente, el modelo elegido está desplegado en un **dashboard interactivo con Streamlit**.
+Se han explorado desde modelos simples (Regresión Lineal Múltiple) hasta ensamblados complejos (Random Forest, XGBoost) y Redes Neuronales, para comparar su rendimiento y seleccionar el más adecuado. Finalmente, el modelo elegido estará desplegado en un **dashboard interactivo con Streamlit**.
 
 ---
 
